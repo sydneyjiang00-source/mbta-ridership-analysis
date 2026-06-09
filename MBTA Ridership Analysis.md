@@ -1,4 +1,4 @@
-MA \[46\]15 Group 8
+MBTA Ridership Analysis
 ================
 **XIN NI JIANG** **Rui Ye** **Yujia Li** **Yu Lu**
 
