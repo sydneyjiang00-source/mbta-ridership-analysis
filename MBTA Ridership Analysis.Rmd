@@ -1,5 +1,5 @@
 ---
-title: "MA [46]15 Group 8"
+title: "MBTA Ridership Analysis"
 author: "**XIN NI JIANG** **Rui Ye** **Yujia Li** **Yu Lu**"
 output: github_document
 ---
